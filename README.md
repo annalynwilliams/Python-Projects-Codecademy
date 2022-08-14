@@ -1,2 +1,2 @@
-# Python-Projects-Codeacademy
-Projects from Python3 Codeacademy course
+# Python-Projects-Codecademy
+Projects from Python3 Codecademy course
